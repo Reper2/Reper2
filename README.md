@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on making a site for this.
 - 😄 Pronouns: he/him
 - 📚 Favorite Genre: Science Fiction
-- 🎵 Favorite Song: Gusty Garden Galaxy
+- 🎵 Favorite Song: Gusty Garden Galaxy  
 I like Japanese music.
 
 (will add more here soon!)

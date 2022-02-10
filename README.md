@@ -1,6 +1,6 @@
 ### Hi, I'm Reper2!
 
-- I like 🌌spacey, 🌈rainbow, and ⚙️tech kind of stuff. 🌈Rainbow generally when put with 🌌space. I love 🌌space and ⚙️tech put together.
+- I like 🌌spacey, 🌈rainbow, and ⚙️tech kind of stuff. 🌈Rainbow generally when put with 🌌space. I love 🌌space and ⚙️tech together.
 
 - 🔭 I’m currently working on making a site for this.
 - 😄 Pronouns: he/him

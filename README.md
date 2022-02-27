@@ -2,11 +2,16 @@
 
 - I like 🌌spacey, 🌈rainbow, and ⚙️tech kind of stuff. 🌈Rainbow generally when put with 🌌space. I love 🌌space and ⚙️tech together.
 
-- 🔭 I’m currently working on making a site for this.
+- 🔭 I’m currently working on configuring my Discord server, updating my Discord bot, building a second Geometry Dash texture pack
 - 😄 Pronouns: he/him
 - 📚 Favorite Genre: Science Fiction
 - 🎵 Favorite Song: Gusty Garden Galaxy  
-I like Japanese music.
+- 🏎️ Favourite Mario Kart track: I like all Mario Kart tracks but my top favourite are Neo Bowser City and Rainbow Road (all versions)
+- 🎮 Professional Mario Kart player
+- 🎵 I like Japanese music.
+
+- 🆓 What do I like to do in my free time?
+Chat on Discord and code. During my free time after school or in the car I play Mario Kart Tour on my phone. 
 
 (will add more here soon!)
 

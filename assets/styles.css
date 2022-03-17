@@ -70,6 +70,13 @@ a {
     position: relative;
 }
 
+#back {
+    top: 0%;
+    left: 0%;
+    position: absolute;
+    font-size: 8vh;
+}
+
 @keyframes bounceButton {
     0% {
         transform: scale(1);

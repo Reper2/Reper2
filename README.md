@@ -24,6 +24,7 @@ I can also read and modify (only a bit) code from most other languages but canno
   1. 🍣Sushi
   2. 🍕Pizza
   3. 🌭Hot Dog
+- 🌏Season: ❄️Winter
 - 🎵Music:
   - Album: [Super Mario Galaxy](https://downloads.khinsider.com/game-soundtracks/album/super-mario-galaxy)
   - Song: [Gusty Garden Galaxy](https://downloads.khinsider.com/game-soundtracks/album/super-mario-galaxy/1-17%2520Gusty%2520Garden%2520Galaxy.mp3)

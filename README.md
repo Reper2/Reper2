@@ -39,6 +39,7 @@
 ❔Code help/snippets:  
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com)
 [![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)](https://developer.mozilla.org)
+[![w3schools](https://img.shields.io/badge/w3-w3schools-white?style=for-the-badge&labelColor=%234CAF50)](https://w3schools.com)
 
 ⭐Favourites:
 - 📚Book Genre:  

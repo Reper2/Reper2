@@ -50,11 +50,6 @@
   3. ![hot dog](https://img.shields.io/badge/%F0%9F%8C%AD-Hot%20Dog-darkgoldenrod?style=for-the-badge&labelColor=darkred)
 - 🌏Season:  
 ![Winter](https://img.shields.io/badge/%E2%9D%84%EF%B8%8F-Winter-skyblue?style=for-the-badge&labelColor=azure)  
-  - snow is way easier to get rid of than sand
-  - having firepits with friends is more memorable than going to the beach
-  - if you’re hot in Summer you can take off most of your clothes and you’d probably still be hot, in Winter you just put more clothes on if you’re cold
-  - Autumn: either too windy, too leafy or too hot
-  - Spring: too many bugs and stuff flying around (especially bees and wasps which scare me) 
 - 🎵Music:
   - Album:  
   [![Super Mario Galaxy](https://img.shields.io/badge/%F0%9F%8C%8C-Super%20Mario%20Galaxy-darkblue?style=for-the-badge&labelColor=navy)](https://downloads.khinsider.com/game-soundtracks/album/super-mario-galaxy)

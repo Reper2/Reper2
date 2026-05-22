@@ -1,7 +1,6 @@
-### Hi there, I'm Ethan, but some people know me as Sherbet Penguin or Reper2 👋
+### Hi there, my name is Ethan, but some people know me as Cyber Penguin or Reper2 👋
 [![Website](https://img.shields.io/badge/%F0%9F%8C%90-Website-lightskyblue?style=for-the-badge&labelColor=grey)](https://reper2.github.io?utm_source=GitHub&utm_medium=readme)
 [![YouTube Channel Subs](https://img.shields.io/youtube/channel/subscribers/UCofCDfLjs_TkiC-p0-k_9XA?color=%23FF6969&label=Reper2&logo=youtube&logoColor=%23FF0000&style=for-the-badge)](https://www.youtube.com/channel/UCofCDfLjs_TkiC-p0-k_9XA)
-[![Discord](https://img.shields.io/discord/771861170256085023?color=%237289DA&label=Official%20Server&logo=discord&style=for-the-badge)](https://discord.gg/JGEjfm5Gn4)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
@@ -22,11 +21,10 @@
 [![Animal Crossing: New Horizons](https://img.shields.io/badge/%F0%9F%8D%83-Animal%20Crossing:%20New%20Horizons-burlywood?style=for-the-badge&labelColor=%2337c8ff)](https://www.nintendo.com.au/games/nintendo-switch/animal-crossing-new-horizons)
 [![SimCity BuildIt](https://img.shields.io/badge/%F0%9F%8F%99%EF%B8%8F-SimCity%20BuildIt-lightskyblue?style=for-the-badge&labelColor=green)](https://www.ea.com/games/simcity/simcity-buildit)  
 * Mario Kart Tour
-* Clash Royale
 * Mario Kart World
-* Pokemon Sword
-* Pokemon Legends: Arceus
-* 
+* Mario Party Jamboree
+* Tomodachi Life: Living the Dream
+
 🕹️Owned Consoles:  
 ![Wii](https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white)
 ![3DS](https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white)

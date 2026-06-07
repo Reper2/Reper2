@@ -5,17 +5,17 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ✨Style:  
-* Ice
-* Fire
+![ice](https://img.shields.io/badge/%F0%9F%A7%8A-Ice-aqua?style=for-the-badge&labelColor=navy)
+![fire](https://img.shields.io/badge/%F0%9F%94%A5-Fire-red?style=for-the-badge)
 ![space](https://img.shields.io/badge/%F0%9F%8C%8C-Space-navy?style=for-the-badge&labelColor=darkblue)
 ![tech](https://img.shields.io/badge/%F0%9F%96%A5%EF%B8%8F-Tech-blue?style=for-the-badge&labelColor=grey)
 ![natural](https://img.shields.io/badge/%F0%9F%8C%B2-Natural-natural?style=for-the-badge&labelColor=lightskyblue)
 ![colourful](https://img.shields.io/badge/%F0%9F%8C%88-Colourful-lightblue?style=for-the-badge&labelColor=lightgrey)
 
 🎛️Operating Systems that I have:  
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-* MacOS
+![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)
+![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)
 
 🎮Games I currently play:  
 [![Animal Crossing: New Horizons](https://img.shields.io/badge/%F0%9F%8D%83-Animal%20Crossing:%20New%20Horizons-burlywood?style=for-the-badge&labelColor=%2337c8ff)](https://www.nintendo.com.au/games/nintendo-switch/animal-crossing-new-horizons)
@@ -28,20 +28,30 @@
 🕹️Owned Consoles:  
 ![Wii](https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white)
 ![3DS](https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white)
-![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
-* Switch 2
+![Switch](https://custom-icon-badges.demolab.com/badge/Switch-E60012?style=for-the-badge&logo=nintendo&logoColor=fff)
+![Switch2](https://custom-icon-badges.demolab.com/badge/Switch%202-E60012?style=for-the-badge&logo=nintendo&logoColour=fff)
+
 
 ⌨️Languages:  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-* TypeScript
- 
+![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=fff)
+* I am still in the learning stage for some of the following languages such as C++ and WebAssembly
+
+
 📝Editor:  
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)
 
 📚 Frameworks, Platforms and Libraries:  
-[![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](https://npmjs.com)  
+![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff)
+![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)
 
 ❔Code help/snippets:  
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com)
@@ -51,7 +61,6 @@
 ⭐Favourites:
 - 📚Book Genre:  
   ![science fiction](https://img.shields.io/badge/%F0%9F%9A%80-Science%20Fiction-darkblue?style=for-the-badge&labelColor=navy)
-  * The Bible
 - 😋Foods:
   1. ![sushi](https://img.shields.io/badge/%F0%9F%8D%A3-Sushi-navy?style=for-the-badge&labelColor=blue)
   2. ![pizza](https://img.shields.io/badge/%F0%9F%8D%95-Pizza-yellow?style=for-the-badge&labelColor=red)

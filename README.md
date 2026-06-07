@@ -17,9 +17,8 @@
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)
 
-🎮Games I currently play:  
-[![Animal Crossing: New Horizons](https://img.shields.io/badge/%F0%9F%8D%83-Animal%20Crossing:%20New%20Horizons-burlywood?style=for-the-badge&labelColor=%2337c8ff)](https://www.nintendo.com.au/games/nintendo-switch/animal-crossing-new-horizons)
-[![SimCity BuildIt](https://img.shields.io/badge/%F0%9F%8F%99%EF%B8%8F-SimCity%20BuildIt-lightskyblue?style=for-the-badge&labelColor=green)](https://www.ea.com/games/simcity/simcity-buildit)  
+🎮Games I currently play:
+* SimCity BuildIt
 * Mario Kart Tour
 * Mario Kart World
 * Mario Party Jamboree

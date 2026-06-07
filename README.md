@@ -76,7 +76,7 @@
   * Koji Kondo
     
 - 🎮Game:  
-[![Animal Crossing: New Horizons](https://img.shields.io/badge/%F0%9F%8D%83-Animal%20Crossing:%20New%20Horizons-burlywood?style=for-the-badge&labelColor=%2337c8ff)](https://www.nintendo.com.au/games/nintendo-switch/animal-crossing-new-horizons)
+![Super Mario Galaxy](https://img.shields.io/badge/%F0%9F%8C%8C-Super%20Mario%20Galaxy%201%20%26%202-navy?style=for-the-badge&labelColor=darkblue)
 - 🏎️Mario Kart Tracks:  
 ![Rainbow Road](https://img.shields.io/badge/%F0%9F%8C%88%20%F0%9F%8C%8C-Rainbow%20Road-darkblue?style=for-the-badge&labelColor=navy)
 ![Neo Bowser City](https://img.shields.io/badge/%F0%9F%8F%99%EF%B8%8F-Neo%20Bowser%20CIty-darkblue?style=for-the-badge&labelColor=%23FF10F0)
